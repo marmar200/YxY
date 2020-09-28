@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class National {
     public static Scanner in = new Scanner(System.in);
-
+// привет
     public static void main(String[] args) {
         Random r = new Random();
         int[] a = new int [5];
